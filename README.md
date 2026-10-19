@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 </h2>
 <!--profile view badge--> 
 <div width="100%" align=center>
-	<a href="https://github.com/safarinexus">
-		<img src="https://komarev.com/ghpvc/?username=safarinexus&color=ff69b4"/>
+	<a href="https://github.com/edgargle">
+		<img src="https://komarev.com/ghpvc/?username=edgargle&color=ff69b4"/>
 	</a>
 </div>
 <details>
@@ -62,9 +62,9 @@ Having graduated from Singapore Management University, I am currently a Backend 
 <!--
 <h6>📉 What I've learnt:</h6>
 <ul> 
-	<li>Full Stack Web Development through <a href="https://github.com/safarinexus/odin_projects">The Odin Project</a></li>
+	<li>Full Stack Web Development through <a href="https://github.com/edgargle/odin_projects">The Odin Project</a></li>
 	<li>CI/CD and Containerization through <a href="https://fullstackopen.com/en/">Full Stack Open</a></li>
-	<li>See the rest of the technologies I've learnt <a href="https://github.com/safarinexus#-technologies">below</a></li>
+	<li>See the rest of the technologies I've learnt <a href="https://github.com/edgargle#-technologies">below</a></li>
 </ul>
 -->
 <!--learning subpoint-->
@@ -79,13 +79,13 @@ Having graduated from Singapore Management University, I am currently a Backend 
 <!--
 <h6>🔧 What I've made, all through my own learning:</h6>
 <ul>
-	<li>A full-fledged <a href="https://github.com/safarinexus/edgr_odin_projects/tree/main/odin-node-express-REST-blog/backend">blog REST API</a>, with separate <a href="https://edgr-odin-blog-access.vercel.app/">post viewer frontend</a> and <a href="https://edgr-odin-blog-edit.vercel.app/">post editor frontend</a></li>
+	<li>A full-fledged <a href="https://github.com/edgargle/edgr_odin_projects/tree/main/odin-node-express-REST-blog/backend">blog REST API</a>, with separate <a href="https://edgr-odin-blog-access.vercel.app/">post viewer frontend</a> and <a href="https://edgr-odin-blog-edit.vercel.app/">post editor frontend</a></li>
 	<li><a href="https://www.edgar-teong.vercel.app">My own portfolio website and blog!</a></li>
 	<li><a href="https://odin-fileuploader-production.up.railway.app/files">A Google Drive Clone</a></li>
-	<li><a href="https://overseas-phoebe-safarinexus-e4f74908.koyeb.app/">A mini message board app</a></li>
+	<li><a href="https://overseas-phoebe-edgargle-e4f74908.koyeb.app/">A mini message board app</a></li>
 	<li><a href="https://odin-projects-nine.vercel.app/">Memory card game!</a></li>
 	<li><a href="https://odin-shopping-page.vercel.app/">A React-made shopping site frontend</a></li>
-	<li>(Check out the rest of my stuff <a href="https://github.com/safarinexus?tab=repositories">here!</a>)</li>
+	<li>(Check out the rest of my stuff <a href="https://github.com/edgargle?tab=repositories">here!</a>)</li>
 </ul>
 <h6>🔨 What I'm currently tinkering with:</h6>
 <ul>
@@ -116,8 +116,8 @@ Having graduated from Singapore Management University, I am currently a Backend 
 <!--github stats-->
 <!--
 <div width="100%" align=center>
-	<a href="https://github.com/safarinexus?tab=repositories">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safarinexus&layout=compact&theme=dark&custom_title=My%20Languages" />
+	<a href="https://github.com/edgargle?tab=repositories">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgargle&layout=compact&theme=dark&custom_title=My%20Languages" />
 	</a>
 </div>
 -->
@@ -135,6 +135,6 @@ Having graduated from Singapore Management University, I am currently a Backend 
 <a href="https://www.linkedin.com/in/edgarteong/" target="_blank"><img src="https://img.shields.io/badge/-Edgar%20Teong-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.telegram.me" target="_blank"><img src="https://img.shields.io/badge/-@edgargarteong-229ED9?style=flat&logo=Telegram&logoColor=white"/></a>
 <a target="_blank" href="mailto:edgargarteong@gmail.com"><img src="https://img.shields.io/badge/-edgargarteong@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>	
-<a href="https://leetcode.com/u/safarinexus/" target="_blank"><img src="https://img.shields.io/badge/-safarinexus-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+<a href="https://leetcode.com/u/edgargle/" target="_blank"><img src="https://img.shields.io/badge/-edgargle-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
 </div>
 </details>
